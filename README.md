@@ -1,3 +1,7 @@
+# Azure Functions Prototype
+Testing Serverless Technology...
+
+
 ## Postman requests used for testing
 
 ### Create Customer
